@@ -3,7 +3,7 @@
 This repository demonstrates the traffic camera calibration approach presented in the manuscript "GNSS Calibration for Vehicle Localisation from Traffic Cameras".
 
 ## Installation
-At the moment, this repository only depends on NumPy. Dependencies can be installed via:
+Dependencies can be installed via (although currently this repo only depends on NumPy):
 ```
 pip install -r requirements.txt
 ```
